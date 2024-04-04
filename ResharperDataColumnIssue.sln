@@ -7,6 +7,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Demo", "Demo\Demo.vbproj", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EE74F456-4EAE-4837-B53A-79C782257ECD}"
 	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
 EndProject
